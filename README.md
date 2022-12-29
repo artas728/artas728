@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andrii-volotskov-23318b60/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrii-volotskov-23318b60/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/andrii.volo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/andrii.volo/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/andrew.volo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/andrew.volo/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andrii-volotskov-23318b60/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrii-volotskov-23318b60/" height="30" width="40" /></a>
+<a href="https://fb.com/andrii.volo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/andrii.volo/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/andrew.volo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/andrew.volo/" height="30" width="40" /></a>
 <a href="https://medium.com/@andrii.volotskov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@andrii.volotskov" height="30" width="40" /></a>
 </p>
 
